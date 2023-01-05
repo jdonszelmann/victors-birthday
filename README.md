@@ -4,27 +4,27 @@
 24 (?) layers
 Start simple
 
-simple math
-router encrypted
-with yeet.js (2018)
-with nixos
-calc problem (last)
-ad problem
-aardenhout (warning: fake)
-wordle / scrable
-rusttracer?
-cats
-disco elyseum
-doctor who
-php
-spelling mistakes
-university challenge
-Australia (leiden street/court/etc Australia)
-klok
-minecraft world, use world data to find coords, answer in blocks at coord
-cn smiley face puzzle
-physical board game
-router: before birthday
+* simple math
+* router encrypted
+* with yeet.js (2018)
+* with nixos
+* calc problem (last)
+* ad problem
+* aardenhout (warning: fake)
+* wordle / scrable
+* rusttracer?
+* cats
+* disco elyseum
+* doctor who
+* php
+* spelling mistakes
+* university challenge
+* Australia (leiden street/court/etc Australia)
+* klok
+* minecraft world, use world data to find coords, answer in blocks at coord
+* cn smiley face puzzle
+* physical board game
+* router: before birthday
 
 
 hints along the way to leiden:
