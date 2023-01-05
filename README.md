@@ -1,9 +1,10 @@
 
 # Ideas
 
+52.15° N, 4.49° E
+
 24 (?) layers
 Start simple
-
 
 * rusttracer?
 * disco elyseum
@@ -13,14 +14,14 @@ Start simple
 hints along the way to leiden:
 
 * train schedule
-*
+* math outcome is 52.2
 
 option hints
 
 
 
 
-1. simple math
+1. simple math, answers: 52.2
 2. klok
 3. router encrypted (maybe)
 4. cn smiley face puzzle

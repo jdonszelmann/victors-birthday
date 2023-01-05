@@ -8,6 +8,10 @@ else
     exit 1
 fi
 
-cp -r /usr/share/archiso/configs/releng/ archlive
+rm -rf ./archlive || true
 
+echo "creating iso folder"
+cp -r /usr/share/archiso/configs/releng/ archlive
+echo "setting custom pacman conf"
+cp ./pacman.conf archlive/pacman.conf
 
