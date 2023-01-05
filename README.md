@@ -4,28 +4,11 @@
 24 (?) layers
 Start simple
 
-* simple math
-* router encrypted
-* with yeet.js (2018)
-* with nixos
-* calc problem (last)
-* ad problem
-* aardenhout (warning: fake)
-* wordle / scrable
+
 * rusttracer?
-* cats
 * disco elyseum
 * doctor who
 * php
-* spelling mistakes
-* university challenge
-* Australia (leiden street/court/etc Australia)
-* klok
-* minecraft world, use world data to find coords, answer in blocks at coord
-* cn smiley face puzzle
-* physical board game
-* router: before birthday
-
 
 hints along the way to leiden:
 
@@ -37,28 +20,28 @@ option hints
 
 
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11. block until sunday
+1. simple math
+2. klok
+3. router encrypted (maybe)
+4. cn smiley face puzzle
+5. university challenge
+6. aardenhout (warning: fake)
+7. router on campus
+8. physical board game
+9. Australia (leiden street/court/etc Australia)
+10. naming of cats
+11. wordle / scrable, block until sunday
 12.
-13.
+13. spelling mistakes
 14.
-15.
+15. with yeet.js (2018)
 16.
-17.
+17. with nixos
 18.
-19.
-20.
-21.
-22.
+19. 
+20. ad problem
+21. minecraft world, use world data to find coords, answer in blocks at coord
+22. calc problem
 23. pasword: contents: nothing
 24. password: "leiden"
 
