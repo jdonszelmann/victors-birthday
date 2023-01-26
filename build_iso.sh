@@ -2,6 +2,8 @@
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
+python3 generate_shadow.py
+
 docker build -t victor-birthday .
 time docker run -it \
     -v $SCRIPT_DIR:/resources \

@@ -12,14 +12,19 @@ cp /resources/packages.x86_64 archlive/packages.x86_64
 cp /resources/bootstrap_packages.x86_64 archlive/bootstrap_packages.x86_64
 cp /resources/pacman.conf archlive/pacman.conf
 cp /resources/mkinitcpio.conf archlive/airootfs/etc/mkinitcpio.conf
+cp /resources/motd archlive/airootfs/etc/motd
 
 # creating users
 cp /resources/passwd archlive/airootfs/etc/passwd
 cp /resources/group archlive/airootfs/etc/group
 cp /resources/shadow archlive/airootfs/etc/shadow
 
+# log in as user 1
+echo -e "[Service]\nExecStart=\nExecStart=-/sbin/agetty -o '-p -f -- \\u' --noclear --autologin year1 - $TERM" > archlive/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+echo "v" > archlive/airootfs/etc/hostname
+
 # use grub instead!
-# rm -rf archlive/efiboot
+rm -rf archlive/efiboot
 # rm -rf archlive/syslinux
 
 # setup grub cfg
