@@ -19,8 +19,6 @@ hints along the way to leiden:
 option hints
 
 
-
-
 1. simple math, answers: 52.2
 2. klok
 3. router encrypted (maybe)
@@ -35,9 +33,9 @@ option hints
 12.
 13. spelling mistakes
 14.
-15. with yeet.js (2018)
+15. yeet.js (2018)
 16.
-17. with nixos
+17. nixos
 18.
 19. 
 20. ad problem
