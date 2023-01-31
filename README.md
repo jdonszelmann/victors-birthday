@@ -10,6 +10,8 @@ Start simple
 * disco elyseum
 * doctor who
 * php
+* horse
+* gray (phys block)
 
 hints along the way to leiden:
 
@@ -29,19 +31,21 @@ option hints
 8. physical board game
 9. Australia (leiden street/court/etc Australia)
 10. naming of cats
-11. wordle / scrable, block until sunday
-12.
-13. spelling mistakes
-14.
-15. yeet.js (2018)
-16.
-17. nixos
-18.
+11. wordle / scrable
+12. laura: gray (phys block)
+13. laura: spelling mistakes
+14. 
+15. jono: yeet.js (2018)
+16. 
+17. jono: nixos
+18. 
 19. 
 20. ad problem
-21. minecraft world, use world data to find coords, answer in blocks at coord
-22. calc problem
+21. jono: minecraft world, use world data to find coords, answer in blocks at coord
+22. laura: calc problem
 23. pasword: contents: nothing
 24. password: "leiden"
+
+# TODO:
 
 
