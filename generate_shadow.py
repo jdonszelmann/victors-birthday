@@ -11,7 +11,7 @@ class User:
 users = [
     User(name="root", pw="yeet"),
     User(name="year1", pw=None),
-    User(name="year2", pw="yeet"),
+    User(name="year2", pw="52.161"),
     User(name="year3", pw="yeet"),
     User(name="year4", pw="yeet"),
     User(name="year5", pw="yeet"),
@@ -20,7 +20,7 @@ users = [
     User(name="year8", pw="yeet"),
     User(name="year9", pw="yeet"),
     User(name="year10", pw="yeet"),
-    User(name="year11", pw="yeet"),
+    User(name="year11", pw="wmkrbt"),
     User(name="year12", pw="yeet"),
     User(name="year13", pw="yeet"),
     User(name="year14", pw="yeet"),
