@@ -14,9 +14,9 @@ image, though instead they are redownloaded every time the ISO is built which ma
     <!-- * [install year 4](./year4/install.sh) -->
     <!-- * [install year 5](./year5/install.sh) -->
     <!-- * [install year 6](./year6/install.sh) -->
-    <!-- * [install year 7](./year7/install.sh) -->
+    * [install year 7](./07_campus_router/install.sh)
     <!-- * [install year 8](./year8/install.sh) -->
-    <!-- * [install year 9](./year9/install.sh) -->
+    * [install year 9](./09_vegemite/install.sh)
     * [install year 10](./10_cats/install.sh)
     * [install year 11](./12_tapeworm/install.sh)
     <!-- * [install year 12](./year12/install.sh) -->
