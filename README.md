@@ -35,13 +35,13 @@ option hints
 12. laura: gray (phys block)
 13. laura: spelling mistakes
 14. 
-15. jono: yeet.js (2018)
-16. 
+15. 
+16. jono: minecraft world, use world data to find coords, answer in blocks at coord
 17. jono: nixos
-18. 
+18. jono: yeet.js (2018)
 19. 
 20. ad problem
-21. jono: minecraft world, use world data to find coords, answer in blocks at coord
+21. 
 22. laura: calc problem
 23. pasword: contents: nothing
 24. password: "leiden"
