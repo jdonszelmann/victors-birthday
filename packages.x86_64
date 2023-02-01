@@ -114,3 +114,6 @@ iproute2
 libxml2
 xorg
 jdk17-openjdk
+expect
+xorg-xinit
+python

@@ -1,6 +1,8 @@
 
 import crypt
 from dataclasses import dataclass
+import sys
+
 
 @dataclass
 class User:
@@ -36,14 +38,16 @@ users = [
     User(name="year24", pw="yeet"),
 ]
 
-
-with open("shadow", "w") as f:
-    for user in users:
-        pw = ""
-        if user.pw is not None:
-            pw = crypt.crypt(user.pw, "$6$random_salt")
-        print(f"{user.name}:{pw}:14871::::::", file=f)
-
+if sys.argv[1] == "generate":
+    with open("shadow", "w") as f:
+        for user in users:
+            pw = ""
+            if user.pw is not None:
+                pw = crypt.crypt(user.pw, "$6$random_salt")
+            print(f"{user.name}:{pw}:14871::::::", file=f)
+elif sys.argv[1] == "list":
+    for i in users:
+        print(i.name)
 
 
 

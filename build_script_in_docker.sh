@@ -3,7 +3,7 @@ set -xe
 
 ls -la /repo
 
-pacman -Syu --noconfirm
+pacman -Syu python --noconfirm
 
 # creating iso folder
 cp -r /usr/share/archiso/configs/releng/ archlive
@@ -28,13 +28,25 @@ echo "v" > archlive/airootfs/etc/hostname
 
 # use grub instead!
 rm -rf archlive/efiboot
-# rm -rf archlive/syslinux
 
 # setup grub cfg
 cp /resources/grub.cfg archlive/grub/grub.cfg
 
 # remove installation stuff
 rm -rf archlive/airootfs/usr/local/bin/Installation_guide
+
+# create home dirs
+for YEAR in $(python resources/generate_shadow.py list | grep -v root)
+do
+    mkdir -p archlive/airootfs/home/"$YEAR"
+    cp resources/submit.py -p archlive/airootfs/home/"$YEAR"/submit
+    chmod +x archlive/airootfs/home/"$YEAR"/submit
+    echo "export YEAR=$YEAR" > archlive/airootfs/home/"$YEAR"/.profile
+    echo "export YEAR=$YEAR" > archlive/airootfs/home/"$YEAR"/.zprofile
+    echo "export PATH=/home/$YEAR:$PATH" >> archlive/airootfs/home/"$YEAR"/.profile
+    echo "export PATH=/home/$YEAR:$PATH" >> archlive/airootfs/home/"$YEAR"/.zprofile
+    ls -la archlive/airootfs/home/"$YEAR"
+done
 
 # run per-year install scripts
 find . -name install.sh | xargs -n 1 | bash
