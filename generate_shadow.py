@@ -19,7 +19,7 @@ users = [
     User(name="year7", pw="yeet"),
     User(name="year8", pw="yeet"),
     User(name="year9", pw="yeet"),
-    User(name="year10", pw="yeet"),
+    User(name="year10", pw="woonprotest"),
     User(name="year11", pw="wmkrbt"),
     User(name="year12", pw="yeet"),
     User(name="year13", pw="cantbruteforcethis"),
