@@ -22,8 +22,8 @@ users = [
     User(name="year1", pw=None),
     User(name="year2", pw="52.161"),
     User(name="year3", pw="nix"),
-    User(name="year4", pw="yeet"),
-    User(name="year5", pw="badwolf"),
+    User(name="year4", pw="badwolf"),
+    User(name="year5", pw="..."),
     User(name="year6", pw="woonprotest"),
     User(name="year7", pw="yeet"),
     User(name="year8", pw="yeet"),
@@ -39,10 +39,10 @@ users = [
     User(name="year18", pw="yeet"),
     User(name="year19", pw="add"),
     User(name="year20", pw="thummim"),
-    User(name="year21", pw="yeet"),
+    User(name="year21", pw="ad_answer"),
     User(name="year22", pw="yeet"),
-    User(name="year23", pw="leiden"),
-    User(name="year24", pw=""),
+    User(name="year23", pw="121794809478715207308276687157402257063936000000"),
+    User(name="year24", pw="leiden"),
 ]
 
 if sys.argv[1] == "generate":

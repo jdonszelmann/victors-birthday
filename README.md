@@ -79,7 +79,7 @@ option hints
 18. jono: yeet.js (2018) DONE
 19. bookclub
 20. ad problem
-21. philisiphy
+21. philosophy
 22. laura: calc problem
 23. pasword: contents: nothing
 24. password: "leiden"
