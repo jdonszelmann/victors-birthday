@@ -48,4 +48,7 @@ file_permissions=(
   ["/home/year22/submit"]="1022:1022:755"
   ["/home/year23/submit"]="1023:1023:755"
   ["/home/year24/submit"]="1024:1024:755"
+
+  # specific permissions
+  ["/home/year16/start.sh"]="1016:1016:755"
 )
