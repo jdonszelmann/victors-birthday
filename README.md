@@ -61,19 +61,19 @@ option hints
 
 1. simple math, answers: 52.2 DONE
 2. klok
-3. router encrypted (maybe)
+3. doctor who
 4. sudocats
 5. vegemite DONE
-6. aardenhout (warning: fake) 
+6. aardenhout (warning: fake)
 7. router on campus: 
 8. george: physical board game
 9. university challenge
-10. naming of cats DONE
+10. router (bmw)
 11. wordle / scrable DONE
 12. laura: gray (phys block) DONE
 13. laura: spelling mistakes DONE
-14. rusttracer DONE
-15. :
+14. naming of cats DONE
+15. rusttracer DONE
 16. jono: minecraft world, use world data to find coords, answer in blocks at coord DONE
 17. jono: nixos
 18. jono: yeet.js (2018) DONE
