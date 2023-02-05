@@ -39,7 +39,7 @@ rm -rf archlive/airootfs/usr/local/bin/Installation_guide
 for YEAR in $(python resources/generate_shadow.py list | grep -v root)
 do
     mkdir -p archlive/airootfs/home/"$YEAR"
-    cp resources/submit.py -p archlive/airootfs/home/"$YEAR"/submit
+    cp resources/submit.sh -p archlive/airootfs/home/"$YEAR"/submit
     chmod +x archlive/airootfs/home/"$YEAR"/submit
     echo "export YEAR=$YEAR" > archlive/airootfs/home/"$YEAR"/.profile
     echo "export YEAR=$YEAR" > archlive/airootfs/home/"$YEAR"/.zprofile
