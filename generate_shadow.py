@@ -26,7 +26,7 @@ users = [
     User(name="year5", pw="wjbgcdccg"),
     User(name="year6", pw="woonprotest"),
     User(name="year7", pw="nyetwork"),
-    User(name="year8", pw="yeet"),
+    User(name="year8", pw="KOEN"),
     User(name="year9", pw="goudsebloemenplein16"),
     User(name="year10", pw="smjucpcn"),
     User(name="year11", pw="TODO"),
