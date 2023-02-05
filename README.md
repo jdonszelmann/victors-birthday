@@ -59,18 +59,18 @@ hints along the way to leiden:
 option hints
 
 
-1. simple math, answers: 52.2
+1. simple math, answers: 52.2 DONE
 2. klok
 3. router encrypted (maybe)
-4. cn smiley face puzzle
-5. university challenge
-6. aardenhout (warning: fake)
-7. router on campus
-8. physical board game
-9. Australia (leiden street/court/etc Australia)
+4. rusttracer DONE
+5. vegemite DONE
+6. aardenhout (warning: fake) 
+7. router on campus: 
+8. george: physical board game
+9. university challenge
 10. naming of cats
 11. wordle / scrable
-12. laura: gray (phys block)
+12. laura: gray (phys block) DONE
 13. laura: spelling mistakes
 14. 
 15. 
@@ -85,5 +85,7 @@ option hints
 24. password: "leiden"
 
 # TODO:
-
+* improve submit script (it breaks after a few submissions)
+* story for yeatjs
+* set up mc world and load on server
 
