@@ -59,7 +59,7 @@ hints along the way to leiden:
 option hints
 
 
-1. simple math, answers: 52.2 DONE
+1. simple math, answers: 52.21 DONE
 2. klok
 3. doctor who
 4. sudocats
@@ -79,7 +79,7 @@ option hints
 18. jono: yeet.js (2018) DONE
 19. bookclub
 20. ad problem
-21. philisiphy
+21. philosophy
 22. laura: calc problem
 23. pasword: contents: nothing
 24. password: "leiden"
