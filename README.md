@@ -68,7 +68,7 @@ option hints
 7. router on campus: 
 8. george: physical board game
 9. university challenge
-10. naming of cats
+10. naming of cats DONE
 11. wordle / scrable DONE
 12. laura: gray (phys block) DONE
 13. laura: spelling mistakes DONE
@@ -86,6 +86,4 @@ option hints
 
 # TODO:
 * improve submit script (it breaks after a few submissions)
-* story for yeatjs
-* set up mc world and load on server
 

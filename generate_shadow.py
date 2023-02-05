@@ -42,7 +42,7 @@ users = [
     User(name="year21", pw="yeet"),
     User(name="year22", pw="yeet"),
     User(name="year23", pw="yeet"),
-    User(name="year24", pw="yeet"),
+    User(name="year24", pw="leiden"),
 ]
 
 if sys.argv[1] == "generate":
