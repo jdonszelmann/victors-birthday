@@ -1,0 +1,1 @@
+For this challenge, you will have to play a game with the eater of fungified bakery products.

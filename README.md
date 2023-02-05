@@ -77,9 +77,9 @@ option hints
 16. jono: minecraft world, use world data to find coords, answer in blocks at coord DONE
 17. jono: nixos
 18. jono: yeet.js (2018) DONE
-19. 
+19. bookclub
 20. ad problem
-21. 
+21. philosophy
 22. laura: calc problem
 23. pasword: contents: nothing
 24. password: "leiden"
