@@ -64,11 +64,11 @@ option hints
 3. doctor who
 4. sudocats
 5. vegemite DONE
-6. aardenhout (warning: fake)
+6. george: physical board game
 7. router on campus: 
-8. george: physical board game
+8. aardenhout (warning: fake)
 9. university challenge
-10. router (bmw)
+10. router (bmw) DONE
 11. wordle / scrable DONE
 12. laura: gray (phys block) DONE
 13. laura: spelling mistakes DONE
@@ -77,9 +77,9 @@ option hints
 16. jono: minecraft world, use world data to find coords, answer in blocks at coord DONE
 17. jono: nixos
 18. jono: yeet.js (2018) DONE
-19. 
+19. bookclub
 20. ad problem
-21. 
+21. philisiphy
 22. laura: calc problem
 23. pasword: contents: nothing
 24. password: "leiden"

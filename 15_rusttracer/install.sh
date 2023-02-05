@@ -2,10 +2,11 @@
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
-YEAR="year9"
+YEAR="year15"
 YEARPATH="archlive/airootfs/home/$YEAR"
 
-cp $SCRIPT_DIR/* $YEARPATH
-rm $YEARPATH/install.sh
+cp -r $SCRIPT_DIR/project $YEARPATH/rusttracer
+mkdir $YEARPATH/.cargo
+cp $SCRIPT_DIR/config.toml $YEARPATH/.cargo/config.toml
 
 
