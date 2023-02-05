@@ -6,5 +6,7 @@ YEAR="year4"
 YEARPATH="archlive/airootfs/home/$YEAR"
 
 cp -r $SCRIPT_DIR/project $YEARPATH/rusttracer
+mkdir $YEARPATH/.cargo
+cp $SCRIPT_DIR/config.toml $YEARPATH/.cargo/config.toml
 
 
