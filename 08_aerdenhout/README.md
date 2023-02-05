@@ -1,0 +1,1 @@
+For this challenge you will have to go for a train ride which will take you to a place you know very well. I can't say where because I don't want you to be found out, but you'll know. From there, you will borrow a bike and follow my assistants' instructions.

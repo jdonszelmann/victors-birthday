@@ -59,7 +59,7 @@ hints along the way to leiden:
 option hints
 
 
-1. simple math, answers: 52.2 DONE
+1. simple math, answers: 52.21 DONE
 2. klok
 3. doctor who
 4. sudocats
