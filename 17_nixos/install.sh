@@ -2,7 +2,7 @@
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
-YEAR="year23"
+YEAR="year17"
 YEARPATH="archlive/airootfs/home/$YEAR"
 
 cp $SCRIPT_DIR/* $YEARPATH

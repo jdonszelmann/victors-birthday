@@ -42,12 +42,12 @@ function fun(){//pow is a great function yeet.
                     i += +subtract[+false];
                     f = subtract.substr(+true);
                 }
-            }catch{
-                return +(i + (String(fun)[+String(fun).slice(2429,2431) + 3]) + f)
+            }catch(e){
+                return +(i + (String(fun)[+String(fun).slice(2432,2434) + 3]) + f)
             }
         }
     42;
 }
 
 
-console.log(fun("1.1","2.2"));
+console.log(fun());

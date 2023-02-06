@@ -32,6 +32,10 @@ rm -rf archlive/efiboot
 # setup grub cfg
 cp /resources/grub.cfg archlive/grub/grub.cfg
 
+# nix
+mkdir archlive/airootfs/etc/nix
+cp /resources/nix.conf archlive/airootfs/etc/nix/nix.conf
+
 # remove installation stuff
 rm -rf archlive/airootfs/usr/local/bin/Installation_guide
 

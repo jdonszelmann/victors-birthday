@@ -6,3 +6,6 @@ What's the minimum sequence alignment cost of the following strings:
 edlaktivcajvvqdmopqlhwhukwhvdoaxigjathvcizjnmzzwkobsyytixbwhzsaqflulgjrcixgislzdhiydtivdcheltymcdctz
 
 kvrqffblfgtjaxjmttcgwntbdbznbcjnsufkkbxbdtjttmuuxckpiwekkfftalbyzwvyhcvmwvadimcgtmvilpboctvelyuloqzx
+
+
+Good luck, ~F

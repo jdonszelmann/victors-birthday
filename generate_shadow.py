@@ -36,11 +36,11 @@ users = [
     User(name="year15", pw="wmkrbt"),
     User(name="year16", pw="ferris"),
     User(name="year17", pw="zuid holland"),
-    User(name="year18", pw="yeet"),
+    User(name="year18", pw="brainfuck"),
     User(name="year19", pw="add"),
     User(name="year20", pw="thummim"),
     User(name="year21", pw="92"),
-    User(name="year22", pw="yeet"),
+    User(name="year22", pw="mayflower"),
     User(name="year23", pw="121794809478715207308276687157402257063936000000"),
     User(name="year24", pw="leiden"),
 ]
